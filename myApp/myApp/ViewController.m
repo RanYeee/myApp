@@ -10,12 +10,16 @@
 
 @interface ViewController ()
 
+@property (nonatomic, strong) UIButton *redButton;
+
 @end
 
 @implementation ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    
 
 }
 
